@@ -8,7 +8,7 @@ Topic modelling of structural shape-mers to explore differences between the [Alp
 * scipy
 * scikit-learn
 * geometricus (https://github.com/TurtleTools/geometricus)
-* portein (https://github.com/out-of-cheese-error/portein)
+* portein (https://github.com/TurtleTools/portein)
 * kneed (https://github.com/arvkevi/kneed)
 
 
